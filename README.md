@@ -23,7 +23,7 @@ pip install matplotlib
 ## How to Run
 1. *Clone the repository* (if using Git):
    sh
-   git clone https://github.com/Vijaykumar077/Process-Scheduling-Simulator/blob/main/CPU_Scheduler.py.git
+   git clone https://github.com/Vijaykumar077/Process-Scheduling-Simulator.git
    cd process-scheduling-simulator
    
 3. *Run the script:*
